@@ -3,7 +3,11 @@
 - 📖 Estudando Front-End
 - 😊 Pronome: Ele/Dele
 
-<html><body>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathan270109&theme=dark"/>
+</div>
+
+  <html><body>
   <header>
   <h1>Minhas Redes Sociais⬇️</h1>
     
