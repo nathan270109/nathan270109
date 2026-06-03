@@ -4,7 +4,7 @@
 - 😊 Pronome: Ele/Dele
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathan270109&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathan270109&theme=white"/>
 </div>
 
 <html>
